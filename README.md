@@ -36,12 +36,12 @@ MONGODB_URI=mongodb://mongo:27017/db_name
 PORT=3000
 ```
 
-###3.Run Docker Compose
+### 3.Run Docker Compose
 ```bash
 docker compose up -d --build
 ```
 
-###4.You're Ready to Go!:
+### 4.You're Ready to Go!:
 
 api url: http://localhost:3000/api
 api documentation url: http://localhost:3000/api-docs
